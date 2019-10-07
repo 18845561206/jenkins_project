@@ -9,3 +9,4 @@ class TestLogin:
         print("3")
         assert 1
 # allure generate report/ -o report/html --clean
+# java -jar jenkins.war
